@@ -7,3 +7,5 @@ The Vingere and Ceasar Ciphers are substitution ciphers, the only difference is 
 a keyword to encrypt it and the other simply takes a number to shift it.
 The output for the str2num function is wonky and I have not figured it out yet, but
 the actual encryption is working though.
+Please let me know if the video file I sent isn't working. It will be easiest to contact
+me via Canvas or student email.
